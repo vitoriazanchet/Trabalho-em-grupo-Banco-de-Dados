@@ -34,7 +34,7 @@ Este projeto foi desenvolvido por:
 * **Elionardo Silva dos Santos** - [GitHub](https://github.com/elionardosantos) | [LinkedIn](https://www.linkedin.com/in/elionardo-s-santos)
 * **Gabriel Wendling Vieira** - [GitHub](https://github.com/Gabrielw342) | [LinkedIn](https://www.linkedin.com/in/gabriel-wendling-vieira)
 * **Igor Brian Braga Dias** - [GitHub](https://github.com/Bryanxrt) | [LinkedIn](https://www.linkedin.com/in/igorbrian)
-* **Melissa Lima da Silva** - [GitHub](https://github.com/melissa-lima21) | [LinkedIn]
+* **Melissa Lima da Silva** - [GitHub](https://github.com/melissa-lima21) | [LinkedIn](https://www.linkedin.com/in/melissa-lima-0628a324b/)
 * **Vitória de Paula Zanchet** - [GitHub](https://github.com/vitoriazanchet) | [LinkedIn](https://www.linkedin.com/in/vitoria-zanchet)
 * **Wallace de Oliveira Ildefonso** - [GitHub](https://github.com/arrobateh) | [LinkedIn](https://www.linkedin.com/in/wallaceildefonso)
 
