@@ -29,13 +29,14 @@ CREATE TYPE clinica.status_consulta AS ENUM (
 );
 -- Armazena as consultas agendadas, realizadas e canceladas
 CREATE TABLE clinica.consulta(
-	id_consulta SERIAL PRIMARY KEY,
-	data_hora TIMESTAMP UNIQUE NOT NULL,
-	descricao TEXT,
-	prescricao TEXT,
-	status clinica.status_consulta NOT NULL,
-	id_paciente INT NOT NULL REFERENCES clinica.paciente(id_paciente),
-	id_dentista INT NOT NULL REFERENCES clinica.dentista(id_dentista)
+    id_consulta SERIAL PRIMARY KEY,
+    data_hora TIMESTAMP NOT NULL,
+    descricao TEXT,
+    prescricao TEXT,
+    status clinica.status_consulta NOT NULL,
+    id_paciente INT NOT NULL REFERENCES clinica.paciente(id_paciente),
+    id_dentista INT NOT NULL REFERENCES clinica.dentista(id_dentista),
+    UNIQUE (data_hora, id_dentista)
 );
 -- Armazena os procedimentos odontológicos disponíveis
 CREATE TABLE clinica.procedimento(
