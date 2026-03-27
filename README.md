@@ -32,7 +32,7 @@ O script SQL fornece a resolução de desafios propostos em aula, incluindo:
 Este projeto foi desenvolvido por:
 
 * **Elionardo Silva dos Santos** - [GitHub](https://github.com/elionardosantos) | [LinkedIn](https://www.linkedin.com/in/elionardo-s-santos)
-* **Gabriel Wendling Vieira Ecard** - [GitHub](https://github.com/Gabrielw342) | [LinkedIn](www.linkedin.com/in/gabriel-wendling-vieira-ecard-724503272)
+* **Gabriel Wendling Vieira Ecard** - [GitHub](https://github.com/Gabrielw342) | [LinkedIn](www.linkedin.com/in/gabriel-wendling-vieira-ecard)
 * **Igor Brian Braga Dias** - [GitHub](https://github.com/Bryanxrt) | [LinkedIn](https://www.linkedin.com/in/igorbrian)
 * **Melissa Lima da Silva** - [GitHub](https://github.com/melissa-lima21) | [LinkedIn]
 * **Vitória de Paula Zanchet** - [GitHub](https://github.com/vitoriazanchet) | [LinkedIn](https://www.linkedin.com/in/vitoria-zanchet)
