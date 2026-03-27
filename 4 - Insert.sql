@@ -56,8 +56,8 @@ VALUES
 	('Canal', 'Tratamento endodôntico', 120),
 	('Implante', 'Intalação de pinos de titânio', 90),
 	('Extração', 'Remoção de elemento dentário', 30),
-	('Implante', 'Intalação de pinos de titânio', 90),
-	('Restauração', 'Tratamento de cárie', 60),
+	('Bichectomia', 'Remoção de gordura das bochechas para contorno facial', 60),
+	('Restauração', 'Reparação de dentes danificados', 60),
 	('Aplicação de Flúor e Selantes', 'Proteção contra cáries', 30),
 	('Exame Clínico', 'Diagnóstico geral da saúde bucal', 30),
 	('Manutenção Ortodôntica', 'Ajuste de aparelho fixo', 30);
